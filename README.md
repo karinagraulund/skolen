@@ -1,6 +1,8 @@
 # skolen
 
-+ håber det går 
-+ det går vel 
++ håber det går
 
-### sejt 
+En ny liste
++ det går vel
+
+### sejt
